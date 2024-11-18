@@ -1,7 +1,0 @@
-[build]
-  publish = "public"
-
-[[redirects]]
-  from = "/api/fetchJob"
-  to = "/.netlify/functions/fetchJob"
-  status = 200
